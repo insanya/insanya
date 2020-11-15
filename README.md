@@ -21,5 +21,3 @@ Main areas:
 
 - Personal website: (Under development)
 - Email: [![Email](https://img.shields.io/badge/insanityinc@protonmail.com-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:insanityinc@protonmail.com)
-
-<p style="text-align:center;"><img src="https://github.com/insanityinc/assets/blob/master/hello.gif" width="400"></p>
