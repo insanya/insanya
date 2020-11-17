@@ -20,6 +20,4 @@ Main areas:
 ### Contact me:
 
 - Personal website: (Under development)
-- Email: [![Email](https://img.shields.io/badge/insanityinc@protonmail.com-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:insanityinc@protonmail.com)
-
-<p style="text-align:center;"><img src="https://github.com/insanya/dotfiles/blob/main/assets/hello.gif" width="400"></p>
+- Email: [![Email](https://img.shields.io/badge/insanya@protonmail.com-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:insanya@protonmail.com)
