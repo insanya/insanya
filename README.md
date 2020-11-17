@@ -19,5 +19,4 @@ Main areas:
 
 ### Contact me:
 
-- Personal website: (Under development)
 - Email: [![Email](https://img.shields.io/badge/insanya@protonmail.com-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:insanya@protonmail.com)
