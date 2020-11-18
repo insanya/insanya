@@ -8,14 +8,14 @@ Main areas:
 
 ### Languages and Tools:
 
-<img src="https://github.com/insanya/dotfiles/blob/main/assets/emacs.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/assets/bash.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/assets/git.jpeg" width="50"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50"> <img src="https://github.com/insanya/dotfiles/blob/main/assets/alloy.png" width="50"> <img src="https://github.com/insanya/dotfiles/blob/main/assets/coq.png" width="50"> <img src="https://github.com/insanya/dotfiles/blob/main/assets/c.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/assets/c%2B%2B.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/assets/haskell.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/assets/java.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/assets/monetdb.png" width="80">  <img src="https://github.com/insanya/dotfiles/blob/main/assets/mysql.jpeg" width="50">
+<img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/emacs.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/bash.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/git.jpeg" width="50"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="50"> <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/alloy.png" width="50"> <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/coq.png" width="50"> <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/c.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/c%2B%2B.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/haskell.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/java.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/monetdb.png" width="80">  <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/mysql.jpeg" width="50">
 
-<img src="https://github.com/insanya/dotfiles/blob/main/assets/openmp.png" width="50"> <img src="https://github.com/insanya/dotfiles/blob/main/assets/openmpi.png" width="50">
+<img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/openmp.png" width="50"> <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/openmpi.png" width="50">
 
 ### Currently learning:
 
-<img src="https://github.com/insanya/dotfiles/blob/main/assets/ts.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/assets/react.jpeg" width="50">
-  <img src="https://github.com/insanya/dotfiles/blob/main/assets/graphql.png" width="50">
+<img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/ts.png" width="50">  <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/react.jpeg" width="50">
+  <img src="https://github.com/insanya/dotfiles/blob/main/misc/assets/graphql.png" width="50">
 
 ### Contact me:
 
