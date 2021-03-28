@@ -19,4 +19,4 @@ Main areas:
 
 ### Contact me:
 
-- Email: [![Email](https://img.shields.io/badge/insanya@protonmail.com-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:insanya@protonmail.com)
+[![Email](https://img.shields.io/badge/insanya@protonmail.com-D14836?style=flat-square&logo=protonmail&logoColor=white)](mailto:lucascrpereira@protonmail.com)
